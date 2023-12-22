@@ -1,0 +1,47 @@
+IAP GROUP ASSIGNMENT 
+RUOTI SAMUEL SCT211-0542/2022
+LELGO ISAAC SCT211-0074/2022
+LEE THIONGO SCT211-0536/2022
+BENEDICT WAWERU SCT211-0032/2022
+THEOPHILUS KIPKEMBOI SCT211-0018/2022
+JOSEPHAT WAWERU SCT211-0003/2022
+
+Proposal for a Number Guessing Game Website
+
+
+
+1. Topic and Content:
+The website aims to host an engaging and interactive number guessing game. Users will be presented with a platform where they can guess a number within a specified range. The game will include various difficulty levels, score tracking, hints, and a leaderboard to encourage competition and engagement. The content will primarily consist of the game interface, instructions, user input fields, score display, and interactive elements for guessing.
+
+2. Target Audience:
+The target audience includes individuals of all ages interested in casual gaming, puzzles, and challenges. The game's simplicity and varying difficulty levels will cater to a broad audience, from teens to adults, looking for entertainment or a quick mental exercise.
+
+3. Goals:
+- Provide an entertaining and interactive gaming experience.
+- Engage users with different difficulty levels to cater to various skill levels.
+- Encourage repeated visits through a leaderboard and score tracking.
+- Offer a clean and intuitive interface for seamless user interaction.
+
+4. Flow Chart and Sitemap:
+Flow Chart:
+
+Start -> Home Page -> Game Page -> Result Page (Win/Lose) -> Leaderboard
+
+Sitemap:
+- Home
+- Game
+    - Easy Level
+    - Medium Level
+    - Hard Level
+- Leaderboard
+- About
+- Contact
+
+5. Rough Sketch of the Website:
+The homepage will feature the game title, navigation links, and a call-to-action button to start playing. The game page will display the game interface with input fields, difficulty selection, and hints. After guessing, users will see a result page indicating whether they won or lost and their score. The leaderboard will showcase top scores.
+
+6. Conclusion:
+In conclusion, the proposed number guessing game website aims to entertain and challenge users through an interactive gaming experience. With a user-friendly interface, varying difficulty levels, and score tracking, the site intends to captivate users' interest and encourage participation. By implementing this proposal, we aspire to create a fun and engaging platform that resonates with a diverse audience.
+
+
+

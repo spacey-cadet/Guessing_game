@@ -1,0 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Number Guessing Game</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+</head>
+<body>
+    <h1>Number Guessing Game</h1>
+    <form method="post">
+        FirstName:<input type="text" name="FirstName"> <br> 
+          LastName:<input type="text" name="LastName"> <br> 
+             <input type="radio" name="gender" value="male"> Male<br> 
+             <input type="radio" name="gender" value="female"> Female<br> 
+             <input type="radio" name="gender" value="other"> Other<br>
+        {% csrf_token %}
+        <label for="guess">Enter your guess (between 1 and 10):</label><br>
+        <input type="number" id="guess" name="guess" min="1" max="10" required><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    {% if result %}
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>
